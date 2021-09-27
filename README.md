@@ -112,6 +112,9 @@ Then open the notebook in your browser at [http://localhost:8888/](http://localh
 
 ## GitHub repo with example
 
+https://github.com/GraphtyLove/Tensorflow-cuda-jupyter-docker-example
+
+
 ## Resources
 
 - [Nvidia Docker images](https://hub.docker.com/r/nvidia/cuda/tags?page=1&ordering=last_updated&name=11.2)
