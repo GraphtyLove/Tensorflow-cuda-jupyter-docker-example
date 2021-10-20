@@ -79,6 +79,7 @@ print("GPU AVAILABLE: ", tf.config.list_physical_devices('GPU'))
 
 import time
 print("--------- TRAINING START ---------")
+start_time = time.time()
 
 history = model.fit(
     train_generator,
