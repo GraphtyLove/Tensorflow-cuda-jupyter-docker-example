@@ -2,7 +2,7 @@
 
 # WIndows
 
-To make you life easier, under windows I recommend using **Docker** with **WSL2**.
+To make your life easier, under windows I recommend using **Docker** with **WSL2**.
 
 Note that depending on the Tensorflow version you use, you will need to **match your python version AND CUDA version.** You can find the matching table here: 
 
